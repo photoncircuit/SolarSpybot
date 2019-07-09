@@ -1,0 +1,43 @@
+•	PIC16F873A 
+•	Red/Green bicolor LED
+•	LM7805 
+•	V7270 Transzorb transient voltage suppressor
+•	LM7809 
+•	2.0K@25c NTC thermistor
+•	LDR 
+•	20 Amp ATO Fuse
+•	1K 1/4W resistor 
+•	SPDT switch
+•	220 ohm 1/4W resistor 
+•	VR1 100K 25 turn
+•	LED red 3mm 
+•	5.1 ohm resistor
+•	Crystal 4MHz 
+•	330 ohm resistor
+•	Capacitor 22pF 
+•	1k resistor
+•	Capacitor 220uF 25V 
+•	10k resistor
+•	Connector Green DG128-2 
+•	22k resistor
+•	Diode 1N4148 
+•	75k resistor
+•	Wireless Camera 
+•	100k resistor
+•	TLC2272CP 
+•	180k resistor
+•	CD4013BE CMOS 
+•	200k resistor
+•	LM78L05 volt reg. 
+•	270k resistor
+•	LM741N volt reg. 
+•	470k resistor
+•	2N3904 (BJT) 
+•	1M resistor
+•	IRF4905 P-MOS volt reg. 
+•	15M resistor
+•	2N3906 
+•	100nF capacitor
+•	20L15T diode 
+•	470uF 16V capacitor
+•	1N5818 diode
